@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gazalrafi/Assignment/static/css/main.dfdd20f3.css",
+    "main.js": "/Gazalrafi/Assignment/static/js/main.c99f35ae.js",
+    "static/js/453.d1ead18a.chunk.js": "/Gazalrafi/Assignment/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/Gazalrafi/Assignment/index.html",
+    "main.dfdd20f3.css.map": "/Gazalrafi/Assignment/static/css/main.dfdd20f3.css.map",
+    "main.c99f35ae.js.map": "/Gazalrafi/Assignment/static/js/main.c99f35ae.js.map",
+    "453.d1ead18a.chunk.js.map": "/Gazalrafi/Assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfdd20f3.css",
+    "static/js/main.c99f35ae.js"
+  ]
+}
